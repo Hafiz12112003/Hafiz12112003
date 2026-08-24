@@ -4,8 +4,6 @@
 
 🔭 **Currently building** RAG-powered applications and computer vision models — my flagship project is **ShopNest**, a Flask-based e-commerce backend with 15+ REST APIs and a RAG chatbot pipeline (Llama 3.3 70B via Groq).
 
-🌱 **Currently learning** — *(fill in what you're picking up right now — e.g. a new framework, Go, system design, etc.)*
-
 💬 **Ask me about** React.js, Python/Flask, MongoDB, MySQL, AWS, or building RAG pipelines from scratch.
 
 📫 **Reach me at** — *(hafiz12112003@gmail.com)*
