@@ -29,4 +29,4 @@ Football scouting platform with a graph database backend (Flask + Neo4j) and d3-
 
 `React.js` `Python` `Flask` `MongoDB` `MySQL` `AWS` `JavaScript` `Tailwind CSS`
 
-**Certifications:** AWS Certified Cloud Practitioner
+
