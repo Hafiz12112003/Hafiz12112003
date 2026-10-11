@@ -171,14 +171,12 @@ Flask + **Neo4j** backend with a **d3-force** network visualization, built with 
 
 ## 🏅 &nbsp;Certifications
 
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Udemy](https://img.shields.io/badge/Udemy-Complete%20Python%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![Java](https://img.shields.io/badge/TNS%20India-Java%20Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Naan Mudhalvan](https://img.shields.io/badge/Naan%20Mudhalvan-Advanced%20MS%20Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-</div>
+| | Certification | Issued by |
+|:-:|---|---|
+| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services |
+| 🐍 | **Complete Python Bootcamp** | Udemy |
+| ☕ | **Java Full Stack Training** | TNS India Foundation |
+| 📊 | **Advanced MS Office** | Naan Mudhalvan, Government of Tamil Nadu |
 
 <br/>
 
