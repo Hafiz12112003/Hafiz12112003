@@ -1,162 +1,210 @@
-<!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Hafiz%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header" />
-
-<!-- ===== TYPING ANIMATION ===== -->
+<!-- ───────────── HEADER ───────────── -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+IT+Graduate+%F0%9F%8E%93;Building+RAG-powered+applications+%F0%9F%A4%96;Training+computer+vision+models+%F0%9F%91%81%EF%B8%8F;React+%2B+Flask+%2B+MongoDB+%2B+AWS+%E2%98%81%EF%B8%8F;Open+to+fresher+%2F+entry-level+roles+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f3a5f,100:4a90e2&height=240&section=header&text=Muhammad%20Hafiz&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=20" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=4A90E2&center=true&vCenter=true&width=720&height=45&lines=Turning+ideas+into+shipped+products+%F0%9F%9A%80;Building+LLM+workflows+%26+RAG+pipelines+%F0%9F%A4%96;Clustering+noisy+feedback+into+real+signals+%F0%9F%A7%B5;React+%E2%80%A2+Python+%E2%80%A2+Node+%E2%80%A2+AWS+%E2%98%81%EF%B8%8F" alt="typing" />
+</a>
+
+<br/><br/>
+
+<a href="https://hafiz-portfolio-snowy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:hafiz12112003@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Hafiz12112003&label=Views&color=4a90e2&style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
 <br/>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-hafiz12112003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafiz12112003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Hafiz12112003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hafiz12112003)
-![Profile Views](https://komarev.com/ghpvc/?username=Hafiz12112003&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class Hafiz:
-    def __init__(self):
-        self.role = ["Full Stack Developer", "Junior Web Developer", "AI/ML Engineer"]
-        self.education = "B.Tech Information Technology (2025)"
-        self.location = "Chennai, India 🇮🇳"
-        self.certified = "AWS Cloud Practitioner ☁️"
-        self.currently_building = ["RAG pipelines", "Computer vision models"]
-        self.core_stack = ["React.js", "Python/Flask", "MongoDB", "MySQL", "AWS"]
-        self.status = "Open to work 🟢"
-
-    def ask_me_about(self):
-        return "React, Flask, MongoDB, MySQL, AWS, or building RAG pipelines from scratch"
-```
-
-- 🔭 **Currently building** RAG-powered apps and computer vision models
-- 💬 **Ask me about** React.js, Python/Flask, MongoDB, MySQL, AWS, RAG pipelines
-- 🎯 **Looking for** Full Stack Developer, Junior Web Developer, or AI/ML Engineer roles
-- 📫 **Reach me at** [hafiz12112003@gmail.com](mailto:hafiz12112003@gmail.com)
-
----
-
-## 🚀 Featured Projects
+## ✨ &nbsp;About Me
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🛒 <a href="https://github.com/Hafiz12112003/shopnest-chatbot">ShopNest</a></h3>
-      <p>Full-stack e-commerce platform with a <b>RAG-based AI chatbot</b> (Llama 3.3 70B via Groq).</p>
-      <ul>
-        <li>15+ REST APIs</li>
-        <li>JWT + bcrypt auth</li>
-        <li>MongoDB Atlas backend</li>
-        <li>React/Vite frontend</li>
-      </ul>
-      <p>🏆 Built as a technical assessment — <b>selected for second-round interview</b>.</p>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>👁️ EyeSight</h3>
-      <p>Diabetic retinopathy detection using deep learning.</p>
-      <ul>
-        <li>EfficientNet, ResNet, DenseNet</li>
-        <li><b>90%+ accuracy</b></li>
-        <li>React + Flask app</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚽ Scout</h3>
-      <p>Football scouting platform powered by a <b>graph database</b>.</p>
-      <ul>
-        <li>Flask + Neo4j backend</li>
-        <li>d3-force network visualization</li>
-        <li>React 18 + Vite + Tailwind</li>
-      </ul>
-      <p>🌐 <a href="https://scout-frontend-pblr.onrender.com"><b>Live Demo</b></a></p>
-      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+🎓 &nbsp;**B.Tech IT graduate (2025)** from Chennai
+<br/>🎯 &nbsp;Looking for **Full Stack**, **Junior Web** or **AI/ML Engineer** roles
+<br/>🔭 &nbsp;Currently building **LLM workflows**, **RAG apps** and **computer vision models**
+<br/>☁️ &nbsp;**AWS Certified Cloud Practitioner**
+<br/>💬 &nbsp;Ask me about **React, Flask, MongoDB, MySQL, AWS** or building RAG pipelines from scratch
+<br/>📫 &nbsp;**hafiz12112003@gmail.com**
+
+</td>
+<td width="42%" valign="top">
+
+```js
+const hafiz = {
+  role: "Full Stack + AI Dev",
+  base: "Chennai, India",
+  stack: ["React", "Python", "Node"],
+  building: "LLM workflows & RAG",
+  openToWork: true,
+};
+```
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🚀 &nbsp;Featured Projects
 
-**Frontend**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🧵 [Signal Stitcher](https://github.com/Hafiz12112003/signal-stitcher)
+*Finds the same customer problem across different sources, and keeps the evidence*
 
-**Backend & Databases**
+Collected **1,338 signals** from GitHub issues and Play reviews, cleaned them to **700**, and grouped them into **72 themes**, **33 of which join both sources**. Multilingual embeddings + clustering, with a React + TypeScript viewer.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+📏 **Measured, not guessed:** F1 **0.63** vs **0.38** for a word-count baseline on 55 hand-labeled pairs.
 
-**AI / ML**
+🌐 [**Live demo →**](https://signal-stitcher-nextcloud.netlify.app/)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-**Cloud & Tools**
+</td>
+<td width="50%" valign="top">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 💊 [Aivoa Complaint Intelligence](https://github.com/Hafiz12112003/aivoa-complaint-management-system)
+*AI copilot for pharmaceutical complaint intake*
 
----
+Paste a complaint email and a **4-node LangGraph workflow** extracts the fields, triages severity and priority, checks completeness and drafts a QA-ready summary. FastAPI + PostgreSQL backend, React + Redux frontend, **Groq** for inference.
 
-## 🏅 Certifications
+🔧 Fixed empty JSON output from a reasoning model by tuning `reasoning_effort` and the token budget.
 
-| Certification | Issuer |
-|---|---|
-| ☁️ AWS Cloud Practitioner | Amazon Web Services |
-| 🐍 Complete Python Bootcamp | Udemy |
-| ☕ Java Full Stack Training | TNS India Foundation |
-| 📊 Advanced MS Office | Naan Mudhalvan, Govt. of Tamil Nadu |
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🛒 [ShopNest](https://github.com/Hafiz12112003/shopnest-chatbot)
+*E-commerce platform with a RAG-powered AI chatbot*
+
+Flask backend with **15+ REST APIs**, JWT + bcrypt auth, MongoDB Atlas, React/Vite frontend, and a RAG pipeline on **Llama 3.3 70B via Groq**.
+
+🏆 *Built as a technical assessment and selected for the second-round interview.*
+
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ [EyeSight](https://github.com/Hafiz12112003/Eyesight-dr-detection)
+*Diabetic retinopathy detection, my final-year project*
+
+Upload a retinal image and an **EfficientNet** model classifies it into **5 severity stages**, returning a plain-language report, a probability breakdown, an overall risk score and per-user history. **90%+ accuracy**, Flask API with a React + Recharts frontend.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Mini SaaS Template Store](https://github.com/Hafiz12112003/fullstack-intern-task)
+*Full-stack template marketplace, deployed end to end*
+
+Register, browse **12 templates across 9 categories**, search, filter and save favorites. JWT auth, protected routes, loading skeletons and toasts. React + Express with PostgreSQL on Neon, hosted on Vercel and Render.
+
+🌐 [**Live demo →**](https://fullstack-intern-task-nine.vercel.app/)
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ [Scout](https://scout-frontend-pblr.onrender.com)
+*Football scouting platform on a graph database*
+
+Flask + **Neo4j** backend with a **d3-force** network visualization, built with React 18, Vite and Tailwind.
+
+🌐 [**Live demo →**](https://scout-frontend-pblr.onrender.com)
+
+![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=008CC1)
+![D3](https://img.shields.io/badge/D3.js-0d1117?style=flat-square&logo=d3dotjs&logoColor=F9A03C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz12112003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz12112003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <sub>More on <a href="https://github.com/Hafiz12112003?tab=repositories">my repositories</a> 👀</sub>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hafiz12112003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/>
 
----
-
-## 🤝 Let's Connect
-
-I'm actively looking for **fresher / entry-level** opportunities as a Full Stack Developer, Junior Web Developer, or AI/ML Engineer. If you're hiring or want to build something cool together, drop me a message!
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafiz12112003@gmail.com)
+<img src="https://skillicons.dev/icons?i=react,js,ts,vite,tailwind,redux,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,java&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,neo4j,tensorflow,aws&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode&theme=dark" />
 
 </div>
 
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<br/>
+
+## 🏅 &nbsp;Certifications
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Udemy](https://img.shields.io/badge/Udemy-Complete%20Python%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Java](https://img.shields.io/badge/TNS%20India-Java%20Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Naan Mudhalvan](https://img.shields.io/badge/Naan%20Mudhalvan-Advanced%20MS%20Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz12112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz12112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com/?user=Hafiz12112003&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz12112003&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+## 🤝 &nbsp;Let's Build Something
+
+<div align="center">
+
+*I'm actively looking for fresher and entry-level roles. If you're hiring, or just want to build something cool, say hi.*
+
+<a href="mailto:hafiz12112003@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Message-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90e2,50:1f3a5f,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
